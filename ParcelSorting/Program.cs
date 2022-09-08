@@ -7,7 +7,7 @@ namespace ParcelSorting
     {
         static void Main(string[] args)
         {
-            Console.WriteLine("Hello World!");
+            Console.WriteLine("Hello World! Wasssaaa!");
 
             ParcelLineFitController(BoxSizes);
         }
